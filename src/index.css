@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+  @import url('https://fonts.googleapis.com/css2?family=Cairo:wght@700&family=Dancing+Script:wght@700&family=Inter:wght@300;400;500;700;900&family=Nunito:wght@200;300;400;500;600;700;800&family=Open+Sans:wght@300;400;500;600;700;800&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+:root{
+  --text-gray: #18191F;
+    /* brand colors */
+  --brand-primary :rgba(76, 175, 79, 1);
+  --brand-secondary:rgba(38, 50, 56, 1);
+  --brand-info:rgba(33, 148, 243, 1);
+
+  /* neutral colors */
+  --neutral-black: rgba(38, 50, 56, 1);
+  --neutral-gray: rgba(113, 113, 113, 1);
+  --neutral-d-gray: rgba(77, 77, 77, 1);
+  --neutral-l-gray:rgba(137, 147, 158, 1);
+  --neutral-gray-blue:rgba(171, 190, 209, 1);
+  --neutral-silver:rgba(245, 247, 250, 1);
+  --neutral-white:rgba(255, 255, 255, 1);
+  --neutral-white-stroke:rgba(171, 190, 209, 1);
+
+  /* shade colors */
+  --shade-s1:rgba(67, 160, 70, 1);
+  --shade-s2:rgba(56, 142, 59, 1);
+  --shade-s3:rgba(35, 125, 49, 1);
+  --shade-s4:rgba(27, 94, 31, 1);
+  --shade-s5:rgba(16, 62, 19, 1);
+
+  /* tint colors */
+  --tint-t1:rgba(102, 187, 105, 1);
+  --tint-t2:rgba(129, 199, 132, 1);
+  --tint-t3:rgba(165, 214, 167, 1);
+  --tint-t4:rgba(200, 230, 201, 1);
+  --tint-t:rgba(232, 245, 233, 1);
+
+  /* action colors */
+  --action-warnings:rgba(251, 192, 45, 1);
+  --action-error:rgba(229, 56, 53, 1);
+  --action-success:rgba(46, 125, 49, 1);
+  --default-white:#FFF;
+}
+

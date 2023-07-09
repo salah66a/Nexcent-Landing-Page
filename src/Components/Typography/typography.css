@@ -1,0 +1,19 @@
+.typography-h1{
+    color: var(--neutral-d-gray);
+    font-family: "Inter";
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 76px;
+}
+.typography-h2{
+    color:  var(--neutral-d-gray);
+    font-family: "Inter";
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 44px;
+}
+.typography-span{
+    color: var(--brand-primary);
+}

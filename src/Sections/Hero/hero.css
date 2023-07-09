@@ -1,0 +1,33 @@
+.hero-section{ 
+   background-color: var(--neutral-silver);
+}
+.hero-content{
+    margin: 200px 0;
+}
+.hero-content p{
+    color: var(--neutral-gray);
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin: 16px 0;
+}
+.hero-section .circle{
+    width: 10px;
+    height: 10px;
+    background-color: var(--brand-primary);
+    border-radius: 50%;
+    opacity: 0.30000001192092896;
+    cursor: pointer;
+
+}
+.hero-section .circles .active{
+    opacity: 1;
+}
+.hero-section .circles{
+    display: flex;
+    gap: 5px;
+    margin: 20px;
+    justify-content: center;
+}

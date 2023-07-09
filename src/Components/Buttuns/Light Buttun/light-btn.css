@@ -1,0 +1,14 @@
+.light-btn button{
+    border-radius: 6px;
+    background: var(--neutral-silver);
+    color: var(--brand-primary, #4CAF4F);
+    text-align: center;
+    font-family: "Inter";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}

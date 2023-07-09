@@ -1,0 +1,15 @@
+.green-btn button{
+    border-radius: 5px;
+    background: var(--brand-primary);
+    color: var(--default-white);
+    text-align: center;
+    font-family: "Inter";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    padding:10px 20px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}

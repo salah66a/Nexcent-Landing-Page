@@ -1,0 +1,16 @@
+.logo{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.logo-text{
+    width: 111.49px;
+    height: 20.662px;
+}
+.logo-avatar{
+    width: 35px;
+    height: 24px;
+    margin-left: -50px;
+    margin-right: 10px;
+}
